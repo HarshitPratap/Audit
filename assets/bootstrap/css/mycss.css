@@ -1,0 +1,108 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+margin-top:7%;
+}
+.mybtn{
+	font-size:30px;
+	color:red;
+	margin-left: 10px;
+	cursor:pointer;
+}
+.myeditbtn
+{
+	font-size:30px;
+	color:green;
+}
+@media screen and (max-width: 1000px) {
+  .container{
+  	margin-top:10%;
+	}
+}
+@media screen and (max-width: 1100px) {
+  .container{
+  	margin-top:10%;
+	}
+}
+  @media screen and (max-width: 900px) {
+  .container{
+  	margin-top:10%;
+	}
+}
+@media screen and (max-width: 500px) {
+  .container{
+  	margin-top:20%;
+	}
+}
+ @media screen and (max-width: 400px) {
+  .container{
+  	margin-top:25%;
+	}
+}
+@media screen and (max-width:700px) {
+  .container{
+  	margin-top:15%;
+	}
+}
+@media screen and (max-width: 600px) {
+  .container{
+  	margin-top:17%;
+	}
+}
+@media screen and (max-width: 300px) {
+  .container{
+  	margin-top:25%;
+	}
+}
+.container-fluid{
+margin-top:7%;
+}
+@media screen and (max-width: 1000px) {
+  .container-fluid{
+  	margin-top:10%;
+	}
+}
+@media screen and (max-width: 1100px) {
+  .container-fluid{
+  	margin-top:10%;
+	}
+}
+  @media screen and (max-width: 900px) {
+  .container-fluid{
+  	margin-top:10%;
+	}
+}
+@media screen and (max-width: 500px) {
+  .container-fluid{
+  	margin-top:20%;
+	}
+}
+ @media screen and (max-width: 400px) {
+  .container-fluid{
+  	margin-top:25%;
+	}
+}
+@media screen and (max-width:700px) {
+  .container-fluid{
+  	margin-top:15%;
+	}
+}
+@media screen and (max-width: 600px) {
+  .container-fluid{
+  	margin-top:17%;
+	}
+}
+@media screen and (max-width: 300px) {
+  .container-fluid{
+  	margin-top:25%;
+	}
+}

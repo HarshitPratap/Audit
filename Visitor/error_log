@@ -1,0 +1,68 @@
+[20-Jan-2020 12:45:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 12:46:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 12:51:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 12:51:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:43:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:43:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:43:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:47:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:47:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:50:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:50:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:50:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:52:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:52:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:53:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:58:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 13:58:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 14:43:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 14:49:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 42
+[20-Jan-2020 14:49:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 42
+[20-Jan-2020 15:17:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 120
+[20-Jan-2020 15:50:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 121
+[20-Jan-2020 17:54:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 131
+[20-Jan-2020 17:55:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 132
+[21-Jan-2020 11:32:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:32:03 Asia/Kolkata] PHP Fatal error:  Call to a member function getquerystr() on null in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 144
+[21-Jan-2020 11:34:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:34:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:40:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:40:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:47:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:47:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:55:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 11:55:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:04:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:04:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:09:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:09:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:15:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:15:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:17:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:17:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:54:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 12:54:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:10:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:10:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:47:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:47:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:47:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 13:47:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 16:13:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 16:13:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 16:27:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 16:27:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 17:08:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[21-Jan-2020 17:08:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[22-Jan-2020 10:37:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[22-Jan-2020 10:37:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[23-Jan-2020 13:01:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[23-Jan-2020 13:01:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[23-Jan-2020 16:47:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[23-Jan-2020 16:47:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[25-Jan-2020 13:53:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[25-Jan-2020 13:53:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[25-Jan-2020 13:53:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41
+[25-Jan-2020 13:53:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/saveb9qt/public_html/Audit/Visitor/audit_report_datafiles.php on line 41

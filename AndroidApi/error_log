@@ -1,0 +1,13 @@
+[20-Jan-2020 12:23:00 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:24:14 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:34:05 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:34:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:35:03 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:35:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[20-Jan-2020 12:43:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[22-Jan-2020 10:45:30 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[22-Jan-2020 10:46:17 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[22-Jan-2020 10:51:36 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[22-Jan-2020 10:52:40 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[22-Jan-2020 10:52:55 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
+[12-Feb-2020 12:13:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/saveb9qt/public_html/Audit/AndroidApi/visitor_login.php on line 99
